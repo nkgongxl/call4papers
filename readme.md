@@ -28,21 +28,6 @@
 ## 高性能计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TOCS|ACM Transactlons on Computer Systems|-|-|-|-
-TPDS|IEEE Transactions on Parallel and Distributed Systems|-|-|-|-
-TC|IEEE Transactlons on Computers|-|-|-|-
-TCAD|IEEE Transactions On Computer-Aided Design Of Integrated Circults And Systems|-|-|-|-
-TOS|ACM Transactlons on Storage|-|-|-|-
-B类期刊| | | | |
-TAAS|ACM Transactions on Autonomous and Adaptive Systems|-|-|-|-
-JPDC|Journal Of Parallel and Distributed Computing|-|-|-|-
-TVLSI|IEEE Transactions on Very Large Scale Integration (VLSI) Systems|-|-|-|-
-TACO|ACM Transactions on Architecture and Code Optimization|-|-|-|-
-PARCO|Parallel Computing|2020-03-01|-|-|-
-TCC|IEEE Transactions on Cloud Computing|2016-05-20|-|-|-
-JETC|ACM Journal on Emerging Technologies in Computing Systems|-|-|-|-
--|Cluster Computing|2020-05-10|-|-|-
 A类会议| | | | |
 ISCA|International Symposium on Computer Architecture|2019-11-26|-|-|-
 FAST|USENIX Conference on File and Storage Technologies|2019-09-26|2019-12-11|长文11页，短文6页|[https://www.usenix.org/conference/fast20](https://www.usenix.org/conference/fast20)
@@ -89,27 +74,6 @@ ISSCC|International Solid-State Circuits Conference|-|-|-|-
 ## 计算机网络
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-JSAC|IEEE Journal of Selected Areas in Communications|-|-|-|[https://www.comsoc.org/publications/journals/ieee-jsac](https://www.comsoc.org/publications/journal
-TMC|IEEE Transactions on Mobile Computing|-|-|-|[https://www.computer.org/csdl/journals/tm](https://www.computer.org/csdl/journals/tm)
-TON|IEEE/ACM Transactions on Networking|-|-|-|[https://ton.lids.mit.edu/](https://ton.lids.mit.edu/)
-TCOM|IEEE Transactions on Communications|-|-|-|[https://mc.manuscriptcentral.com/tcom](https://mc.manuscriptcentral.com/tcom)
-B类期刊| | | | |
-TWC|IEEE Transactions on Wireless Communications|-|-|-|-
--|Wireless Networks|-|-|-|-
-TOSN|ACM Transactions on Sensor Networks|-|-|-|-
--|Journal of Network and Computer Applications|-|-|-|-
-CN|Computer Networks|2020-06-20|-|-|-
--|Ad hoc Networks|2020-01-30|-|-|-
-TNSM|IEEE Transactions on Network and Service Management|-|-|-|-
-CC|Computer Communications|2020-02-28|-|-|-
-MONET|Mobile Networks & Applications|-|-|-|-
-TOMCCAP|ACM Transactions on Multimedia Computing, Communications and Applications|-|-|-|-
-TOIT|ACM Transactions on Internet Technology|-|-|-|-
-TVT|IEEE Transactions on Vehicular Technology|-|-|-|-
--|IEEE Transactions on Aerospace and Electronic Systems|-|-|-|-
--|IEEE Internet of Things Journal|-|-|-|-
--|通信学报|-|-|-|-
 A类会议| | | | |
 SIGCOMM|ACM International Conference on the applications, technologies, architectures, and protocols for com|2020-02-07|-|-|-
 NSDI|Symposium on Network System Design and Implementation|2019-09-19|2019-12-13|12页正文|[https://www.usenix.org/conference/nsdi20](https://www.usenix.org/conference/nsdi20)
@@ -139,15 +103,6 @@ CNSM|International Conference on Network and Service Management|-|-|-|-
 ## 网络与信息安全
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TIFS|IEEE Transactions on Information Forensics and Security|-|-|-|-
--|Journal of Cryptology|-|-|-|-
-TDSC|IEEE Transactions on Dependable and Secure Computing|-|-|-|-
-B类期刊| | | | |
--|Computers & Security|-|-|-|-
-JCS|Journal of Computer Security|-|-|-|-
-TOPS|ACM Transactions on Privacy and Security|-|-|-|-
--|密码学报|-|-|-|-
 A类会议| | | | |
 S&P|IEEE Symposium on Security and Privacy|2019-09-01|-|-|-
 NDSS|ISOC Network and Distributed System Security Symposium|2019-09-13|-|-|-
@@ -183,25 +138,6 @@ NOMS|IEEE/IFIP Network Operations and Management Symposium|-|-|-|-
 ## 理论计算机科学
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-SICOMP|SIAM Journal on Computing|-|-|-|-
-TIT|IEEE Transactions on Information Theory|-|-|-|-
-TALG|ACM Transactions on Algorithms|-|-|-|-
-IANDC|Information and Computation|-|-|-|-
-B类期刊| | | | |
-TOMS|ACM Transactions on Mathematical Software|-|-|-|-
-JCSS|Journal Of Computer and System Sciences|-|-|-|-
-FGCS|Future Generatlon Computer Systems|-|-|-|-
-Algorithmica|Algorithmica|-|-|-|-
-CC|Computational complexlty|-|-|-|-
-INFORMS|INFORMS Journal on Computing|-|-|-|-
-TOCL|ACM Transactions on Computational Logic|-|-|-|-
-JGC|Journal Of Grid Computlng|-|-|-|-
-FMSD|Formal Methods in System Design|-|-|-|-
-JGO|Journal Of Global Optimization|-|-|-|-
-JSC|Journal Of Symbolic Computation|-|-|-|-
-FAC|Formal Aspects Of Computing|-|-|-|-
-TCS|Theoretical Computer Science|-|-|-|-
 A类会议| | | | |
 STOC|ACM Symposium on the Theory of Computing|2019-11-04|-|-|-
 FOCS|IEEE Annual Symposium on Foundations of Computer Science|2019-04-05|-|-|-
@@ -225,23 +161,6 @@ ISIT|IEEE International Symposium on Information Theory|-|-|-|-
 ## 系统软件与软件工程
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TSE|IEEE Transactions on Software Engineering|-|-|-|-
-TOSEM|ACM Transactions on Software Engineering and Methodology|-|-|-|-
-TOPLAS|ACM Transactions on Programming Languages & Systems|-|-|-|-
-B类期刊| | | | |
-TSC|IEEE Transactlons on Servlce Computlng|-|-|-|-
-IST|Information and Software Technology|2020-04-20|-|-|-
-ESE|Empirical Software Engineering|-|-|-|-
-SOSyM|Software and System Modeling|-|-|-|-
-RE|Requlrements Englneerlng|2020-02-17|-|-|-
-JSS|Journal of Systems and Software|2020-04-15|-|-|-
-ASE|Automated Software Engineering|2019-05-13|-|-|-
-SCP|Science Of Computer Programming|-|-|-|-
-STTT|International Journal on Software Tools for Technology Transfer|-|-|-|-
-STVR|Software Testing, Verification and Reliability|-|-|-|-
-SPE|Software: Practice and Experience|-|-|-|-
--|软 件 学 报|-|-|-|-
 A类会议| | | | |
 OSDI|USENIX Symposium on Operating Systems Design and implementations|2020-05-12|-|-|[https://www.usenix.org/conference/osdi20](https://www.usenix.org/conference/osdi20)
 ICSE|International Conference on Software Engineering|2019-08-23|-|-|-
@@ -280,29 +199,6 @@ ATVA|International Symposium on Automated Technology for Verification and Analys
 ## 数据库与数据挖掘
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TKDE|IEEE Transactions on Knowledge and Data Engineering|-|-|-|-
-VLDBJ|The VLDB Journal|-|-|-|-
-TODS|ACM Transactions on Database Systems|-|-|-|-
-TOIS|ACM Transactions on Information Systems|-|-|-|-
-B类期刊| | | | |
-I&M|Information and Management|-|-|-|-
-EJIS|European Journal of Information Systems|-|-|-|-
-IJGIS|International Journal of Geographical Information Science|-|-|-|-
-J. Strategic Inf. Sys.|Journal of Strategic Information Systems|-|-|-|-
-JASIST|Journal of the American Society for Information Science and Technology|-|-|-|-
-IPM|Information Processing and Management|-|-|-|-
-IS|Information Systems|2020-02-15|-|-|-
-JWS|Journal of Web Semantics|2020-01-24|-|-|-
-DMKD|Data Mining and Knowledge Discovery|-|-|-|-
-KAIS|Knowledge and Information Systems|-|-|-|-
-TKDD|ACM Transactions on Knowledge Discovery from Data|-|-|-|-
-AEI|Advanced Engineering Informatics|-|-|-|-
-IJIS|International Journal of Intelligent Systems|-|-|-|-
-TWEB|ACM Transactions on the Web|-|-|-|-
--|Information Sciences|2020-05-01|-|-|-
--|Geolnformatica|-|-|-|-
-DKE|Data and Knowledge Engineering|-|-|-|-
 A类会议| | | | |
 SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
 SIGKDD|ACM Knowledge Discovery and Data Mining|-|-|-|-
@@ -324,47 +220,6 @@ DASFAA|Database Systems for Advanced Applications|2019-12-20|-|-|-
 ## 人工智能与模式识别
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|-|-|-|-
-IJCV|International Journal of Computer Vision|-|-|-|-
-JMLR|Journal of Machine Learning Research|-|-|-|-
-TR|IEEE Transactions on Robotics|-|-|-|-
-Al|Artificial Intelligence|2020-03-01|-|-|-
-TASLP|IEEE Transactions on Audio Speech, and Language Processing|-|-|-|-
-B类期刊| | | | |
-TEC|IEEE Transactions on Evolutionary Computation|-|-|-|-
-TNNLS|IEEE Transactions on Neural Networks and learning systems|-|-|-|-
--|IEEE Transactions on Cybernetics|-|-|-|-
-TFS|IEEE Transactlons on Fuzzy Systems|-|-|-|-
-PR|Pattern Recognltlon|-|-|-|-
-TAC|IEEE Transactions on Affective Comput'ng|-|-|-|-
-JBI|Journal Of Biomedical Informatics|-|-|-|-
--|Neural Networks|-|-|-|-
--|KNOWLEDGE-BASED SYSTEMS|-|-|-|-
-Expert Syst. Appl.|Expert Systems with Applications|-|-|-|-
-PRL|Pattern Recognltlon Letters|-|-|-|-
-JAIR|Journal Of Artificial Intelligence Research|-|-|-|-
-CVIU|Computer Vision and Image Understanding|-|-|-|-
-EAAI|Engineering Applications Of Artificial Intelligence|-|-|-|-
--|International Journal Of Neural Systems|-|-|-|-
--|Neurocomputlng|-|-|-|-
--|Evolutionary Computation|-|-|-|-
--|Computational Linguistics|-|-|-|-
--|Machine Learning|-|-|-|-
-AIM|Artificial Intelligence in Medicine|-|-|-|-
--|Image and Vision Computlng|-|-|-|-
--|Computer Speech and Language|2020-02-01|-|-|-
--|Journal Of Automated Reasoning|-|-|-|-
-IJAR|International Journal Of Approximate Reasoning|-|-|-|-
-AAMAS|Autonomous Agents and Multi-Agent Systems|2019-11-15|-|-|-
-IJIS|International Journal Of Intelligent Systems|-|-|-|-
-TG|IEEE Transactlons on Games|-|-|-|-
-JSLHR|Journal Of Speech, Language, and Hearing Research|-|-|-|-
--|Neural Computation|-|-|-|-
--|Applied Intelligence|-|-|-|-
-TACL|Transactions of the Association for Computational Linguistics|-|-|-|-
--|智 能 系 统 学 报|-|-|-|-
--|中 文 信 息 学 报|-|-|-|-
 A类会议| | | | |
 CVPR|IEEE Conference on Computer Vision and Pattern Recognition|2019-11-15|-|-|-
 ICCV|International Conference on Computer Vision|2019-03-01|-|-|-
@@ -399,24 +254,6 @@ RecSys|Conference on Recommender Systems|-|-|-|-
 ## 计算机图形学与多媒体
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-TIP|IEEE Transactions on Image Processing|-|-|-|-
-TOG|ACM Transactions on Graphics|-|-|-|-
-TMM|IEEE Transactions on Multimedia|-|-|-|-
-TVCG|IEEE Transactions on Visualization and Computer Graphics|-|-|-|-
-CAD|Computer-Aided Design|-|-|-|-
-B类期刊| | | | |
--|Signal Processing|-|-|-|-
-TCSVT|IEEE Transactions on Circuits and Systems for Video Technology|-|-|-|-
-SilMS|SIAM Journal on Imaging Sciences|-|-|-|-
-CG|Computers & Graphics|2020-02-01|-|-|-
-SPL|IEEE Signal Processing Letters|-|-|-|-
-CGF|Computer Graphics Forum|-|-|-|-
-Speech Com|Speech Communication|2020-11-30|-|-|-
-CAGD|Computer Aided Geometric Design|-|-|-|-
--|计算机辅助设计与图形学学报|-|-|-|-
--|中国图像图形学报|-|-|-|-
--|图学学报|-|-|-|-
 A类会议| | | | |
 SIGGRAPH|ACM SIGGRAPH Annual Conference|2020-01-22|-|-|-
 IEEE VIS|IEEE Visualization Conference|2019-03-31|-|-|-
@@ -440,18 +277,6 @@ DCC|Data Compression Conference|2019-11-01|-|10页全文|[https://www.cs.brandei
 ## 人机交互与普适计算
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-IJHCS|International Journal of Human Computer Studies|-|-|-|-
-TOCHI|ACM Transactions on Computer-Human Interaction|-|-|-|-
-B类期刊| | | | |
-UMUAI|User Modeling and User-Adapted Interaction|-|-|-|-
--|IEEE Transactions on Human-Machine Systems|-|-|-|-
-HCI|Human Computer Interaction|-|-|-|-
-PMC|Pervasive and Mobile Computing|2020-01-31|-|-|-
-IJHCI|International Journal of Human-Computer Interaction|-|-|-|-
-BIT|Behaviour & Information Technology|-|-|-|-
-CSCW|Computer Supported Cooperative Work|2020-04-15|-|-|-
-IWC|Interacting with Computers|-|-|-|-
 A类会议| | | | |
 CSCW|ACM Conference on Computer Supported Cooperative Work and Social Computing|2020-04-15|-|-|-
 UbiComp|ACM International Conference on Ubiquitous Computing|2020-05-15|within 8 weeks|13-16页正文|[http://ubicomp.org/ubicomp2020/](http://ubicomp.org/ubicomp2020/)
@@ -466,32 +291,6 @@ ICMI|ACM International Conference on Multimodal Interaction|2020-05-04|-|-|-
 ## 综合与交叉
 名称|全称|截稿时间|结果时间|篇幅|官网
 -|-|-|-|-|-
-A类期刊| | | | |
-JACM|Journal of the ACM|-|-|-|-
-Proc. IEEE|Proceedings of the IEEE|-|-|-|-
--|Science China|-|-|-|-
--|中国科学|-|-|-|-
-B类期刊| | | | |
-TMI|IEEE Transactions on Medical Imaging|-|-|-|-
--|Briefings in Bioinformatics|-|-|-|-
-TITS|IEEE Transactions on Intelligent Transportation Systems|-|-|-|-
-TGARS|IEEE Transactions on Geoscience and Remote Sensing|-|-|-|-
-TASAE|IEEE Transactions on Automation Science and Engineering|-|-|-|-
--|Bioinformatics|-|-|-|-
-JAMIA|Journal of the American Medical Informatics Association|-|-|-|-
-JBHI|IEEE Journal of Biomedical and Health Informatics|-|-|-|-
-TBD|IEEE Transactions on Big Data|-|-|-|-
--|BMC Bioinformatics|-|-|-|-
-GRSL|IEEE Geoscience and Remote Sensing Letters|-|-|-|-
-TCBB|IEEE-ACM Transactions on Computational Biology and Bioinformatics|-|-|-|-
-JCST|Journal of Computer Science and Technology|-|-|-|-
--|Tsinghua Science and Technology|-|-|-|-
--|计算机学报|-|-|-|-
--|计算机研究与发展|-|-|-|-
--|电子学报|-|-|-|-
--|自动化学报|-|-|-|-
--|系统仿真学报|-|-|-|-
--|清华大学学报(自然科学版)|-|-|-|-
 A类会议| | | | |
 RECOMB|International Conference on Research in Computational Molecular Biology|2019-11-01|-|-|-
 ISMB|International conference on Intelligent Systems for Molecular Biology|2020-01-30|-|-|-
