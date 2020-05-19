@@ -43,7 +43,7 @@ PPoPP|ACM SIGPLAN Symposium on Principles & Practice Of Parallel Programming|201
 DAC|Design Automation Conference|2019-11-27|-|-|-
 B类会议| | | | |
 HPDC|International Symposium on High Performance Distributed Computing|2020-01-23|-|-|-
-SoCC|ACM Symposium on Cloud Computing|2019-06-10|-|-|[https://www.ieee-socc.org/](https://www.ieee-socc.org/)
+SoCC|ACM Symposium on Cloud Computing|2019-06-10|-|-|[https://acmsocc.github.io/2020/](https://acmsocc.github.io/2020/)
 RTAS|Real-Time and Embedded Technology and Applications Symposium|2019-10-23|-|-|-
 MSST|Mass Storage Systems and Technologies|2019-01-07|-|-|-
 CGO|ACM/IEEE International Symposium on Code Generation and Optimization|2019-09-06|-|-|-
