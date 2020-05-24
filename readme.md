@@ -174,7 +174,7 @@ ASE|International Conference on Automated Software Engineering|2019-05-13|-|-|-
 B类会议| | | | |
 MSR|Mining Software Repositories|2020-01-16|-|-|-
 SANER|International Conference on Software Analysis, Evolution, and Reengineering|2019-10-18|-|-|-
-Middleware|International Middleware Conference|2019-05-17|-|-|[http://middleware-conference.org/](http://middleware-conference.org/)
+Middleware|International Middleware Conference|2020-06-03|-|2020-12-07|[https://2020.middleware-conference.org/](https://2020.middleware-conference.org/)
 EASE|Evaluation and Assessment in Software Engineering|2019-12-17|-|-|-
 ICPC|IEEE International Conference on Program Comprehension|2020-01-24|-|-|-
 ICSME|International Conference on Software Maintenance and Evolution|2019-04-05|-|-|-
