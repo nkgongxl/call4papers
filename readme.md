@@ -65,7 +65,7 @@ ASP-DAC|Asia and South Pacific Design Automation Conference|2019-07-05|-|-|-
 ISLPED|International Symposium on LOW Power Electronics and Design|2020-03-09|-|-|-
 -|IEEE International Conference on Cloud Computing|2019-12-06|-|-|-
 RTSS|Real-Time Systems Symposium|2020-05-28|-|-|-
-ICCD|International Conference on Computer Design|2019-06-28|-|-|-
+ICCD|International Conference on Computer Design|2020-06-05|-|8页全文|[http://iccd-conf.com/Home.html](http://iccd-conf.com/Home.html)
 ISCAS|International Symposium on Circuits and Systems|2019-10-20|-|-|-
 ISPD|International Symposium on Physical Design|2019-10-07|-|-|-
 ICPP|International Conference on Parallel Processing|2020-03-17|2020-05-19|10页全文|[https://jnamaral.github.io/icpp20/](https://jnamaral.github.io/icpp20/)
@@ -174,7 +174,7 @@ ASE|International Conference on Automated Software Engineering|2019-05-13|-|-|-
 B类会议| | | | |
 MSR|Mining Software Repositories|2020-01-16|-|-|-
 SANER|International Conference on Software Analysis, Evolution, and Reengineering|2019-10-18|-|-|-
-Middleware|International Middleware Conference|2020-06-03|-|2020-12-07|[https://2020.middleware-conference.org/](https://2020.middleware-conference.org/)
+Middleware|International Middleware Conference|2020-06-03|-|12+reference|[https://2020.middleware-conference.org/](https://2020.middleware-conference.org/)
 EASE|Evaluation and Assessment in Software Engineering|2019-12-17|-|-|-
 ICPC|IEEE International Conference on Program Comprehension|2020-01-24|-|-|-
 ICSME|International Conference on Software Maintenance and Evolution|2019-04-05|-|-|-
