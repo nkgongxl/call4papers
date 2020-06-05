@@ -47,7 +47,7 @@ SoCC|ACM Symposium on Cloud Computing|2019-06-10|-|-|[https://acmsocc.github.io/
 RTAS|Real-Time and Embedded Technology and Applications Symposium|2019-10-23|-|-|-
 MSST|Mass Storage Systems and Technologies|2019-01-07|-|-|-
 CGO|ACM/IEEE International Symposium on Code Generation and Optimization|2020-09-01|-|正文10页|[https://cgo-conference.github.io/cgo2021/](https://cgo-conference.github.io/cgo2021/)
-PACT|International Conference on Parallel Architectures and Compilation Techniques|2019-04-15|-|-|-
+PACT|International Conference on Parallel Architectures and Compilation Techniques|2020-04-24|-|-|[https://pact20.cc.gatech.edu/](https://pact20.cc.gatech.edu/)
 CODES+ISSS|International Conference on Hardware/Software Co-design and System Synthesis|2020-04-10|-|-|-
 PODC|ACM Symposium on Principles Of Distributed Computing|2020-02-17|-|-|-
 VEE|International Conference on Virtual Execution Environments|2019-12-06|-|-|-
