@@ -227,8 +227,8 @@ ICML|International Conference on Machine Learning|2020-02-07|-|-|-
 ACL|Annual Meeting of the Association for Computational Linguistics|2019-12-09|-|-|-
 ECCV|European Conference on Computer Vision|2020-03-05|-|-|-
 COLT|Annual Conference on Computational Learning Theory|2020-01-31|-|-|-
-NeuriPS|Annual Conference on Neural Information Processing Systems|2019-05-23|-|-|-
-AAA I|AAAI Conference on Artificial Intelligence|2019-09-05|-|-|-
+NeurIPS|Annual Conference on Neural Information Processing Systems|2020-06-05|2020-09-25|-|[https://neurips.cc/Conferences/2020](https://neurips.cc/Conferences/2020)
+AAAI|AAAI Conference on Artificial Intelligence|2020-09-09|2020-12-01|正文7页参考文献2页|[https://aaai.org/Conferences/AAAI-21/](https://aaai.org/Conferences/AAAI-21/)
 EMNLP|Conference on Empirical Methods in Natural Language Processing|2019-05-21|-|-|-
 ICRA|IEEE International Conference on Robotics and Automation|2019-09-15|-|-|-
 ICLR|International Conference on Learning Representations|-|-|-|-
