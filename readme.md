@@ -201,8 +201,8 @@ ATVA|International Symposium on Automated Technology for Verification and Analys
 -|-|-|-|-|-
 A类会议| | | | |
 SIGMOD|ACM Conference on Management Of Data|2019-07-16|2019-12-10|正文14页|[https://sigmod2020.org/](https://sigmod2020.org/)
-SIGKDD|ACM Knowledge Discovery and Data Mining|-|-|-|-
-SIGIR|International Conference on Research on Development in Information Retrieval|2020-01-22|2020-04-20|短文4，长文10页|[https://sigir.org/sigir2020/](https://sigir.org/sigir2020/)
+SIGKDD|ACM Knowledge Discovery and Data Mining|2020-02-13|2020-05-15|全文9页|[https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers](https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers)
+SIGIR|International Conference on Research on Development in Information Retrieval|2021-02-02|2021-04-19|短文4，长文10页|[https://sigir.org/sigir2021/](https://sigir.org/sigir2020/)
 WSDM|ACM International Conference on Web Search and Data Mining|2019-08-16|-|-|-
 VLDB|International Conference on Very Large Data Bases|2020-03-01|-|-|-
 ICDE|IEEE International Conference on Data Engineering|2019-06-15|-|-|-
