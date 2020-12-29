@@ -52,7 +52,7 @@ CODES+ISSS|International Conference on Hardware/Software Co-design and System Sy
 PODC|ACM Symposium on Principles Of Distributed Computing|2020-02-17|-|-|-
 VEE|International Conference on Virtual Execution Environments|2019-12-06|-|-|-
 IPDPS|International Parallel & Distributed Processing Symposium|2019-10-14|-|-|-
-ICS|International Conference on Supercomputing|2020-01-31|-|-|-
+ICS|International Conference on Supercomputing|2021-02-04|2021-03-16|正文10页|[https://ics21.github.io/](https://ics21.github.io/)
 DATE|Design, Automation & Test in Europe Conference|2019-09-08|-|-|-
 SPAA|ACM Symposium on Parallelism in Algorithms and Architectures|2020-02-15|-|-|-
 Performance|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|2019-02-18|-|-|-
