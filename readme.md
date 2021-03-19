@@ -68,7 +68,7 @@ RTSS|Real-Time Systems Symposium|2020-05-28|-|-|-
 ICCD|International Conference on Computer Design|2020-06-05|-|8页全文|[http://iccd-conf.com/Home.html](http://iccd-conf.com/Home.html)
 ISCAS|International Symposium on Circuits and Systems|2019-10-20|-|-|-
 ISPD|International Symposium on Physical Design|2019-10-07|-|-|-
-ICPP|International Conference on Parallel Processing|2020-03-17|2020-05-19|10页全文|[https://jnamaral.github.io/icpp20/](https://jnamaral.github.io/icpp20/)
+ICPP|International Conference on Parallel Processing|2021-04-16|2021-06-11|10页全文|[https://oaciss.uoregon.edu/icpp21/index.php](https://oaciss.uoregon.edu/icpp21/index.php)
 IEDM|IEEE International Electron Devices Meeting|-|-|-|-
 ISSCC|International Solid-State Circuits Conference|-|-|-|-
 ## 计算机网络
