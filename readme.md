@@ -6,8 +6,9 @@
 
 本项目提供了通过MySQL数据库生成下面全部Markdown的脚本genMarkdown.php
 
-~~各个会议的deadline可参考[http://www.call4papers.cn/ccf/ccf-1.jsp](http://www.call4papers.cn/ccf/ccf-1.jsp)，感觉这网站挺好用？~~
-这网站挂了。。
+各个会议的ddl可以参考[http://123.57.137.208/ccf/ccf-1.jsp](http://123.57.137.208/ccf/ccf-1.jsp)
+（这个网站就是以前著名的call4papers.cn，只是域名挂了）
+
 
 ## 分类类别
 
@@ -107,7 +108,7 @@ A类会议| | | | |
 S&P|IEEE Symposium on Security and Privacy|2021-04-15, 2021-08-19, 2021-12-02|-|13页正文，全文18页|[https://www.ieee-security.org/TC/SP2022/cfpapers.html](https://www.ieee-security.org/TC/SP2022/cfpapers.html)
 NDSS|ISOC Network and Distributed System Security Symposium|2019-09-13|-|-|-
 USENIX Security|Usenix Security Symposium|2020-06-18, 2020-10-15, 2021-02-04|-|13页正文，录用后改18页|[https://www.usenix.org/conference/usenixsecurity20](https://www.usenix.org/conference/usenixsecurit)
-CCS|ACM Conference on Computer and Communications Security|2021-01-20, 2021-05-06|-|-|-
+CCS|ACM Conference on Computer and Communications Security|2022-01-14, 2022-05-02|-|正文12页|[https://www.sigsac.org/ccs/CCS2022/](https://www.sigsac.org/ccs/CCS2022/)
 EUROCRYPT|European Cryptology Conference|2019-09-26|-|-|-
 CRYPTO|International Cryptology Conference|2020-02-11|-|-|-
 CHES|International Conference on Cryptographic Hardware and Embedded Systems|2020-04-15|-|-|-
